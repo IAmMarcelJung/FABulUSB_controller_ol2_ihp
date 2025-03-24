@@ -10,11 +10,12 @@ FP_PDN_MULTILAYER: false
 VERILOG_FILES:
   - dir::rtl/controller/controller.v
   - dir::rtl/controller/config_usb_cdc.v
+  - dir::rtl/controller/jtag_bridge.v
   - dir::rtl/controller/usb_cdc/bulk_endp.v
   - dir::rtl/controller/usb_cdc/ctrl_endp.v
   - dir::rtl/controller/usb_cdc/usb_cdc.v
   - dir::rtl/controller/usb_common/in_fifo.v
-  - dir::rtl/controller/usb_common/out_fifo/out_fifo.v
+  - dir::rtl/controller/usb_common/out_fifo.v
   - dir::rtl/controller/usb_common/phy_tx.v
   - dir::rtl/controller/usb_common/phy_rx.v
   - dir::rtl/controller/usb_common/sie.v
