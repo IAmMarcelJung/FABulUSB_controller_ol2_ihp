@@ -1,7 +1,7 @@
 # Openlane Flow for the FABulUSB controller
 
 This repository contains the configuration for the Openlane 2 flow for the
-[FABulUSB controller](https://github.com/IAmMarcelJung/fabulous_usb/tree/feat/add_usb_config/controller).
+[FABulUSB controller](https://github.com/IAmMarcelJung/fabulous_usb/tree/main/controller).
 
 ## Contents
 
