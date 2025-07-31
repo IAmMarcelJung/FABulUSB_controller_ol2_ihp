@@ -11,6 +11,8 @@ This repository contains the configuration for the Openlane 2 flow for the
 
 ## Instructions
 
-The setup is based on [this example](https://github.com/mole99/ihp-openlane-examples) by Leo Moser.
+The setup is based on [this example](https://github.com/mole99/ihp-openlane-examples) by Leo Moser. Set everyhting up until you get to the `Run Examples` section.
 
 To update the controller code, simply run `make update-controller`.
+
+Then you can pass the config of this repository to the normal run command.
